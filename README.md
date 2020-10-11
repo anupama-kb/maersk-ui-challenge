@@ -10,5 +10,4 @@ Demo
 --------
 Desktop version
 
-
-
+![](desktop.gif)
