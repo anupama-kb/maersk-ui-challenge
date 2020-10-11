@@ -8,6 +8,13 @@ Open index.html file in chrome.
 
 Demo
 --------
-Desktop version
+Desktop Version
+---------------
 
 ![](desktop.gif)
+
+
+Mobile Version
+---------------
+
+![](mobile.gif)
