@@ -20,7 +20,7 @@ div {
   color: #ffffff;
 }
 
-.mybutton {
+.shuffle {
   position: absolute;
   top: 80px;
   right: 35%;
@@ -127,7 +127,7 @@ div {
     color: #ffffff;
   }
   
-  .mybutton {
+  .shuffle {
     display: flex;
     justify-content: center;
     align-items: center;
